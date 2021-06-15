@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Dec 11 23:17:55 IST 2019
+org.eclipse.jst.j2ee.server\:SpringRESTfulWebservice=E\:\\apache-tomcat-9.0.29\\webapps\\SpringRESTfulWebservice
+org.eclipse.jst.j2ee.server\:SpringRestClient=E\:\\apache-tomcat-9.0.29\\webapps\\SpringRestClient
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\Kaalidas\\.m2\\repository\\org\\springframework\\spring-web\\5.2.1.RELEASE\\spring-web-5.2.1.RELEASE.jar=E\:\\apache-tomcat-9.0.29\\webapps\\SpringRESTfulWebservice\\WEB-INF\\lib\\spring-web-5.2.1.RELEASE.jar

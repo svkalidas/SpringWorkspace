@@ -1,0 +1,4 @@
+com\app\spring\restclient\service\EmployeeService.class
+com\app\spring\restclient\controllers\EmployeeInfoController.class
+com\app\spring\restclient\model\Employee.class
+com\app\spring\restclient\utility\ClientInvoker.class
